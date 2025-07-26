@@ -1,0 +1,29 @@
+{
+  "pujaris": [
+    {
+      "id": 1,
+      "name": "mukesh kuamr dadhich",
+      "mobile": "6378930169",
+      "img": "/img/png4.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mulchand Dadhich",
+      "mobile": "6378930169",
+      "img": "/img/png5.jpg"
+    },
+    {
+      "id": 3,
+      "name": "amar chand dadhich",
+      "mobile": "6378930169",
+      "img": "/img/png3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rekesh Dadhich",
+      "mobile": "6378930169",
+      "img": "/img/png3.jpg"
+    }
+  ]
+}
+    
